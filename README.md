@@ -1,2 +1,2 @@
-"# Blockchain" 
-"# Blockchain" 
+"# Blockchain proof of concept in Javascript " 
+ 
